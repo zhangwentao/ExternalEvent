@@ -41,6 +41,6 @@ add event listener:
 	swfdiv.addEventListener("btn1click","console.log");
 	
 ##Example
-	see [example](https://github.com/zhangwentao/ExternalEvent/tree/master/example)
+see [example](https://github.com/zhangwentao/ExternalEvent/tree/master/example)
 
 	
