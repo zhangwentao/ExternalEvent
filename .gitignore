@@ -2,3 +2,10 @@
 bin-debug/
 bin-release/
 html-template/
+obj/
+bin/
+.actionScriptProperties
+.example*
+.settings/
+.flexLibProperties
+
